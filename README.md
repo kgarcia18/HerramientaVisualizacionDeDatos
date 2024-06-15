@@ -1,1 +1,3 @@
-# HerramientaVisualizacionDeDatos
+# Herramienta de Visualización de Datos
+
+Este proyecto en Java proporciona una interfaz gráfica para analizar texto, mostrando estadísticas como el número de oraciones, palabras, letras, números y espacios entre palabras. Utilizando componentes de Swing, como JTextArea para la entrada de texto y JLabels para mostrar los resultados, los usuarios pueden cargar texto, realizar análisis con un botón y ver instantáneamente las métricas calculadas en la interfaz. Es ideal para quienes buscan una herramienta simple pero efectiva para el análisis básico de contenido textual de manera visual y directa.
